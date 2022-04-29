@@ -1,0 +1,31 @@
+body{
+    background-color: #8181F7;
+}
+.navbar{
+    background-color: #6aad54;
+    height: 140px;
+}
+.quem-somos{
+    background-color: #8181F7;
+    color: white;
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.nav-link{
+    /* text-decoration: none; */
+    font-size: 24px;
+    color: black;
+}
+.nav-link:hover{
+    font-size: 24px;
+    color: white;
+}
+.parceiros{
+    background-color: #81f7e7;
+}
+nav img{
+    padding-top: 10px;
+    padding-left: 10px;
+}
